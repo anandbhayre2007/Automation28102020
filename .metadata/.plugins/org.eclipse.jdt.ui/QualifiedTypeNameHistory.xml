@@ -1,2 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<qualifiedTypeNameHistroy/>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="functions.Library"/>
+    <fullyQualifiedTypeName name="functions.AccessModifiers"/>
+    <fullyQualifiedTypeName name="constructor.Car"/>
+    <fullyQualifiedTypeName name="variableAndDataType.TestAccessModifiersAtProjectLevel"/>
+    <fullyQualifiedTypeName name="oops.inheritance.Mobile"/>
+    <fullyQualifiedTypeName name="oops.inheritance.Telephone"/>
+    <fullyQualifiedTypeName name="oops.inheritance.Smartphone"/>
+</qualifiedTypeNameHistroy>

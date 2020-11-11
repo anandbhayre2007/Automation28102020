@@ -1,0 +1,24 @@
+package loops;
+
+public class ForEachLoop {
+
+	public static void main(String[] args) {
+		
+		int[] arr= {10,20,30};
+		
+		for(int i=0; i<3; i++)
+		{
+			System.out.println(arr[i]);
+		}
+		
+		System.out.println("  Rozina       ");
+		
+		
+		for(int s:arr) //For each loop or enhanced for loop
+		{
+			System.out.println(s);
+		}
+
+	}
+
+}
